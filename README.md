@@ -1,4 +1,3 @@
-Portfolio
 Portfolio Website is a modern, responsive front-end project built using React and Tailwind CSS to create a visually appealing and interactive digital presence. This portfolio serves as a central hub to showcase my skills, projects, experience, and achievements in Data Science, AI, Software Development, and Cloud Computing. With a sleek UI, intuitive navigation, and smooth animations, it ensures an engaging user experience.
 
 visit at: https://amitfolio.vercel.app/
